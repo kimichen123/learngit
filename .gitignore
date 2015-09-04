@@ -1,0 +1,14 @@
+.idea/
+*.iml
+.classpath
+.project
+.metadata/*
+*.class
+*/target
+*.war
+*.swp
+*/.settings/*
+.settings/
+META-INF/
+*.log.*
+*.bak
