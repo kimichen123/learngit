@@ -6,3 +6,4 @@ create a new branch is quick
 nothing
 fixed merge
 hello
+world
