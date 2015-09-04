@@ -11,3 +11,4 @@
 .settings/
 META-INF/
 *.log.*
+*.bak
